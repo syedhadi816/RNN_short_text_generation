@@ -1,5 +1,5 @@
 # RNN_short_text_generation
-Character Level Language Model 
+## Character Level Language Model 
 
 
 ![alt text](https://images.samsung.com/is/image/samsung/assets/uk/support/mobile-devices/how-can-i-personalise-and-turn-predictive-text-on-and-off-on-my-samsung-galaxy-device/images/1-uk-how-can-i-personalise-and-turn-predictive-text-on-and-off.png)
